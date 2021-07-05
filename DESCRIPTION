@@ -8,3 +8,5 @@ Description: A repository for the analyses for my internship about the bimodalit
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/zenogvl/SaccadeDurationBimodality
+BugReports: https://github.com/zenogvl/SaccadeDurationBimodality/issues
