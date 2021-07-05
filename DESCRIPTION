@@ -10,3 +10,18 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/zenogvl/SaccadeDurationBimodality
 BugReports: https://github.com/zenogvl/SaccadeDurationBimodality/issues
+RoxygenNote: 7.1.1
+Imports: 
+    actuar,
+    diptest,
+    flexmix,
+    gazepath,
+    ggplot2,
+    ggpmisc,
+    ggpubr,
+    gridExtra,
+    rlist,
+    scales,
+    SuppDists
+Depends: 
+    tidyverse
