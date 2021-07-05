@@ -1,0 +1,10 @@
+Package: SaccadeDurationBimodality
+Type: Package
+Title: Looking for Bimodality of Saccade Duration 
+Version: 0.1.0
+Author: Zeno Glastra van Loon  <zenogvl@gmail.com>
+Maintainer: Zeno Glastra van Loon <zenogvl@gmail.com>
+Description: A repository for the analyses for my internship about the bimodality of saccade duration in infants and adults. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
